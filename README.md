@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm currently working on trying to figure out how to make a README.
-I'm learning how to create a README.
-I'm looking for help with how to create a pull request and how to create a markdown file.
-Ask me about nothing.
+I'm currently working on getting good grades in school and studying.
+I'm interested in reading📖, animals🐶, cooking🧑‍🍳, baking (sometimes)🥧, playing games 🎮, and computer "stuff"🖥️.
+Some of my hobbies are reading📖, cooking🧑‍🍳, baking🥧, ***eating***, and ***breathing***.
 <!--
 **MackGL/MackGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
